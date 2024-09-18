@@ -5,3 +5,4 @@ Learning and practising:
 
 - computer science student @ [ufmt](https://www.ic.ufmt.br/)
 - front end internship @ [mti](https://www.mti.mt.gov.br/)
+- helpdesk internship @ [mpmt](https://www.mpmt.mp.br/)
